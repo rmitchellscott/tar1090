@@ -238,7 +238,6 @@ BingMapsAPIKey = null;
 //squareMania = false;
 
 // Columns that have a // in front of them are shown.
-/* // remove this line to mofify columns (and the one at the end)
 HideCols = [
 	"#icao",
 //	"#flag",
@@ -252,13 +251,14 @@ HideCols = [
 //	"#distance",
 	"#track",
 	"#msgs",
-	"#seen",
-//	"#rssi",
+//	"#seen",
+	"#rssi",
 	"#lat",
 	"#lon",
 	"#data_source",
+	"#ws",
+	"#wd",
 ]
-*/ // remove this line to modify columns (and the one at the start)
 
 // show aircraft pictures
 // showPictures = true;

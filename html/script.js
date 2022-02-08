@@ -1922,6 +1922,7 @@ function initMap() {
             zIndex: 101,
             renderBuffer: renderBuffer,
             style: actualOutlineStyle,
+            visible: false,
         });
         layers.push(actualOutlineLayer);
     }
